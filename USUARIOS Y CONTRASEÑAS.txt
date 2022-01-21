@@ -1,0 +1,7 @@
+Usuarios:			Contraseñas:
+admin				admin
+ferran_torres			barca
+raulillo			123456
+barriga				revuelta
+mj				ugr
+rah				rachel
