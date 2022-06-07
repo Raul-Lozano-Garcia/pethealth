@@ -4,7 +4,6 @@ const hamburguesa = document.querySelector('#hamburguesa');
 const nav= document.querySelector("nav");
 const galeria = document.querySelector("#fotos");
 
-//PREGUNTAR DANI SI QUIERO QUE CARGUE ASI, SIN DARLE A NINGUN BOTON
 window.onload= async function () {
   const respuesta = await fetch("https://dog.ceo/api/breeds/image/random/6");
   const datos = await respuesta.json();
